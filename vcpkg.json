@@ -1,0 +1,18 @@
+{
+  "name": "posebridge",
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "name": "opencv",
+      "features": [ "contrib" ]
+    },
+    "zeromq",
+    "cppzmq",
+    {
+      "name": "imgui",
+      "features": [ "glfw-binding", "opengl3-binding" ]
+    },
+    "glfw3",
+    "glad"
+  ]
+}
